@@ -1,5 +1,7 @@
 # marketcapgame.com page
 
+Available at [marketcapgame.com](marketcapgame.com)
+
 ## Setup
 
 ```
