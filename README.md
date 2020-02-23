@@ -27,4 +27,6 @@ Use the following [A records](https://help.github.com/en/github/working-with-git
 185.199.111.153
 ```
 
+Plus a CNAME records pointing `www` to `akbits.github.io` (username or org)
+
 Under the repo -> Settings -> Custom Domain (marketcapgame.com)
