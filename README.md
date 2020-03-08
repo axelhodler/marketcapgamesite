@@ -2,6 +2,8 @@
 
 Available at [marketcapgame.com](http://marketcapgame.com)
 
+Images are pulled from the appstore
+
 ## Setup
 
 ```
