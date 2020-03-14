@@ -133,20 +133,6 @@ header {
 	clip-path: url(#shape);
 }
 
-@media only screen and (max-width: 768px) {
-
-	.divider {
-		position: relative;
-		min-width: 1px;
-		max-width: 1px;
-		background-color:rgba(127, 127, 127, 0.2);
-		display: inline-block;
-		margin-left: 15px;
-	}	
-	
-} 
-
-
 // Navigation Links
 .scroll {
 	display: flex;
