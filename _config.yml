@@ -18,12 +18,12 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : akbits
-your_link                                 : http://akbits.net
+your_name                                 :
+your_link                                 :
 your_city                                 : Stuttgart
-email_address                             : axel.tsoleridis@gmail.com
-github_username                           : akbits
-twitter_username                          : marketcapgame
+email_address                             :
+github_username                           : axelhodler
+twitter_username                          :
 
 
 # Theme Settings
